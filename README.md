@@ -65,6 +65,10 @@ Follow these steps to get the project up and running on your local machine or Co
 
     The application will typically run on `http://127.0.0.1:5000/` (or a similar address provided by Codespaces). Open this URL in your web browser.
 
+6.  **Accessing Sections:** You can directly navigate to specific sections of the portfolio by appending the section ID to the URL (e.g., `http://127.0.0.1:5000/#skills` to go directly to the Skills section).
+
+## Customization
+
 ## Customization
 
 * **Your Photo:** Replace `static/images/yourphoto.jpg` with your actual profile picture. Make sure it's a square or circular image for best results.
